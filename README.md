@@ -6,3 +6,8 @@ PacCheck is a lightweight and user-friendly frontend for the Pacman package mana
 ![Screenshot von meinem Projekt](images/image_paccheck.png)
 
 ![Screenshot von meinem Projekt](images/img_install.png)
+
+PacCheckGTK can be started as follows:
+- python PacCheckGTK.py (without root)
+- sudo python PacCheckGTK.py (root)
+- pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY python $PWD/PacCheckGTKv3.py (root)
